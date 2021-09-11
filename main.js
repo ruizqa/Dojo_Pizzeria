@@ -1,4 +1,3 @@
-// I thought we had to make random pizzas at first so ignore first block of code. See comment below
 
 let crustTypes;
 let sauceTypes;
@@ -39,7 +38,6 @@ function pizzaOvenRandom(ingredients_list) {
     return pizza;
 }
 
-//Read from this point forward...
 
 function pizzaOven(crustType, sauceType, cheeses, toppings){
 
